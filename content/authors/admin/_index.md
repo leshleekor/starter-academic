@@ -11,6 +11,7 @@ role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
 - Hanyang University ERICA
+  url: http://www.hanyang.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -34,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:yeonjoonlee@hanyang.ac.kr"
+  link: 'mailto:yeonjoonlee@hanyang.ac.kr'
 - icon: google-scholar
   icon_pack: fas
   link: https://scholar.google.com/citations?user=gx1HOgIAAAAJ&hl=en
