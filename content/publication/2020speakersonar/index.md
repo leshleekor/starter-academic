@@ -12,6 +12,7 @@ authors:
 - Kai Chen
 - XiaoFeng Wang
 
+date: "2020-01-01T00:00:00Z"
 publication_types: ["1"]
 publication: ACM UbiComp 2020 / Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
