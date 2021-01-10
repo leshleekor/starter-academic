@@ -1,5 +1,5 @@
 ---
-title: "Understanding Illicit UI in iOS apps Through Hidden UI Analysis"
+title: "Understanding iOS-based Crowdturfing Through Hidden UI Analysis"
 
 authors:
 - Yeonjoon Lee
