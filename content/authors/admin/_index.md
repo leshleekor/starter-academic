@@ -34,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:yeonjoonlee@hanyang.ac.kr
+  link: "mailto:yeonjoonlee@hanyang.ac.kr"
 - icon: google-scholar
   icon_pack: fas
   link: https://scholar.google.com/citations?user=gx1HOgIAAAAJ&hl=en
