@@ -35,7 +35,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yeonjoonlee@hanyang.ac.kr'
-- icon: google-scholar
+- icon: graduation-cap
   icon_pack: fab
   link: https://scholar.google.com/citations?user=gx1HOgIAAAAJ&hl=en
 - icon: linkedin
